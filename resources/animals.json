@@ -1,0 +1,50 @@
+{"_id":{"$oid":"5e99b551d0da1930543dd6fc"},"name":"Gauthier","animal_common_name":"Civet, common palm","scientific_name":"Paradoxurus hermaphroditus","weight":{"$numberInt":"386"},"size":"L"}
+{"_id":{"$oid":"5e99b551d0da1930543dd6fd"},"name":"Hermy","animal_common_name":"Black curlew","scientific_name":"Haematopus ater","weight":{"$numberInt":"469"},"size":"XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd6fe"},"name":"Trenna","animal_common_name":"Wallaroo, common","scientific_name":"Macropus robustus","weight":{"$numberInt":"389"},"size":"L"}
+{"_id":{"$oid":"5e99b551d0da1930543dd6ff"},"name":"Lynda","animal_common_name":"Dove, rock","scientific_name":"Columba livia","weight":{"$numberInt":"73"},"size":"XS"}
+{"_id":{"$oid":"5e99b551d0da1930543dd700"},"name":"Alvira","animal_common_name":"Sparrow, house","scientific_name":"Passer domesticus","weight":{"$numberInt":"268"},"size":"M"}
+{"_id":{"$oid":"5e99b551d0da1930543dd701"},"name":"Annabela","animal_common_name":"Rhinoceros, square-lipped","scientific_name":"Ceratotherium simum","weight":{"$numberInt":"218"},"size":"L"}
+{"_id":{"$oid":"5e99b551d0da1930543dd702"},"name":"Chelsea","animal_common_name":"Bustard, denham's","scientific_name":"Neotis denhami","weight":{"$numberInt":"259"},"size":"S"}
+{"_id":{"$oid":"5e99b551d0da1930543dd703"},"name":"Stacee","animal_common_name":"White-browed sparrow weaver","scientific_name":"Plocepasser mahali","weight":{"$numberInt":"194"},"size":"L"}
+{"_id":{"$oid":"5e99b551d0da1930543dd704"},"name":"Sophie","animal_common_name":"Weaver, white-browed sparrow","scientific_name":"Plocepasser mahali","weight":{"$numberInt":"213"},"size":"XS"}
+{"_id":{"$oid":"5e99b551d0da1930543dd705"},"name":"Forbes","animal_common_name":"Reedbuck, bohor","scientific_name":"Redunca redunca","weight":{"$numberInt":"175"},"size":"S"}
+{"_id":{"$oid":"5e99b551d0da1930543dd706"},"name":"Daron","animal_common_name":"Monkey, rhesus","scientific_name":"Macaca mulatta","weight":{"$numberInt":"327"},"size":"XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd707"},"name":"Rowen","animal_common_name":"Common raccoon","scientific_name":"Procyon lotor","weight":{"$numberInt":"423"},"size":"M"}
+{"_id":{"$oid":"5e99b551d0da1930543dd708"},"name":"Cathlene","animal_common_name":"Cardinal, red-capped","scientific_name":"Paroaria gularis","weight":{"$numberInt":"195"},"size":"2XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd709"},"name":"Leonard","animal_common_name":"Eastern grey kangaroo","scientific_name":"Macropus giganteus","weight":{"$numberInt":"472"},"size":"L"}
+{"_id":{"$oid":"5e99b551d0da1930543dd70a"},"name":"Grove","animal_common_name":"Anteater, giant","scientific_name":"Myrmecophaga tridactyla","weight":{"$numberInt":"267"},"size":"XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd70b"},"name":"Mada","animal_common_name":"Black-tailed deer","scientific_name":"Odocoileus hemionus","weight":{"$numberInt":"434"},"size":"L"}
+{"_id":{"$oid":"5e99b551d0da1930543dd70c"},"name":"Court","animal_common_name":"Bird, red-billed tropic","scientific_name":"Phaethon aethereus","weight":{"$numberInt":"98"},"size":"M"}
+{"_id":{"$oid":"5e99b551d0da1930543dd70d"},"name":"Cole","animal_common_name":"Goldeneye, barrows","scientific_name":"Bucephala clangula","weight":{"$numberInt":"263"},"size":"XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd70e"},"name":"Sullivan","animal_common_name":"Cockatoo, sulfur-crested","scientific_name":"Cacatua galerita","weight":{"$numberInt":"94"},"size":"L"}
+{"_id":{"$oid":"5e99b551d0da1930543dd70f"},"name":"Kattie","animal_common_name":"Western patch-nosed snake","scientific_name":"Salvadora hexalepis","weight":{"$numberInt":"224"},"size":"2XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd710"},"name":"Shannen","animal_common_name":"Ringtail cat","scientific_name":"Bassariscus astutus","weight":{"$numberInt":"225"},"size":"3XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd711"},"name":"Avril","animal_common_name":"Fox, pampa gray","scientific_name":"Pseudalopex gymnocercus","weight":{"$numberInt":"287"},"size":"L"}
+{"_id":{"$oid":"5e99b551d0da1930543dd712"},"name":"Mattias","animal_common_name":"Snake, buttermilk","scientific_name":"Coluber constrictor","weight":{"$numberInt":"67"},"size":"XS"}
+{"_id":{"$oid":"5e99b551d0da1930543dd713"},"name":"Earlie","animal_common_name":"Argalis","scientific_name":"Ovis ammon","weight":{"$numberInt":"265"},"size":"M"}
+{"_id":{"$oid":"5e99b551d0da1930543dd714"},"name":"Timothy","animal_common_name":"Stanley crane","scientific_name":"Anthropoides paradisea","weight":{"$numberInt":"257"},"size":"2XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd715"},"name":"Flor","animal_common_name":"Agama lizard (unidentified)","scientific_name":"Agama sp.","weight":{"$numberInt":"43"},"size":"XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd716"},"name":"Anneliese","animal_common_name":"Indian star tortoise","scientific_name":"Geochelone elegans","weight":{"$numberInt":"122"},"size":"3XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd717"},"name":"Maryrose","animal_common_name":"Crow, pied","scientific_name":"Corvus albus","weight":{"$numberInt":"354"},"size":"M"}
+{"_id":{"$oid":"5e99b551d0da1930543dd718"},"name":"Jayson","animal_common_name":"Heron, boat-billed","scientific_name":"Cochlearius cochlearius","weight":{"$numberInt":"94"},"size":"L"}
+{"_id":{"$oid":"5e99b551d0da1930543dd719"},"name":"Carlin","animal_common_name":"Stork, black-necked","scientific_name":"Ephippiorhynchus mycteria","weight":{"$numberInt":"243"},"size":"XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd71a"},"name":"Olivette","animal_common_name":"Capuchin, weeper","scientific_name":"Cebus nigrivittatus","weight":{"$numberInt":"131"},"size":"XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd71b"},"name":"Wernher","animal_common_name":"Gray langur","scientific_name":"Semnopithecus entellus","weight":{"$numberInt":"206"},"size":"2XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd71c"},"name":"Carlos","animal_common_name":"Brush-tailed bettong","scientific_name":"Bettongia penicillata","weight":{"$numberInt":"62"},"size":"L"}
+{"_id":{"$oid":"5e99b551d0da1930543dd71d"},"name":"Frederick","animal_common_name":"Western palm tanager (unidentified)","scientific_name":"unavailable","weight":{"$numberInt":"377"},"size":"L"}
+{"_id":{"$oid":"5e99b551d0da1930543dd71e"},"name":"Melisa","animal_common_name":"Royal tern","scientific_name":"Thalasseus maximus","weight":{"$numberInt":"71"},"size":"XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd71f"},"name":"Fletcher","animal_common_name":"Galah","scientific_name":"Eolophus roseicapillus","weight":{"$numberInt":"462"},"size":"XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd720"},"name":"Daveta","animal_common_name":"Small-spotted genet","scientific_name":"Genetta genetta","weight":{"$numberInt":"445"},"size":"2XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd721"},"name":"Danita","animal_common_name":"Capuchin, white-fronted","scientific_name":"Cebus albifrons","weight":{"$numberInt":"492"},"size":"2XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd722"},"name":"Quinton","animal_common_name":"Scaly-breasted lorikeet","scientific_name":"Trichoglossus chlorolepidotus","weight":{"$numberInt":"400"},"size":"M"}
+{"_id":{"$oid":"5e99b551d0da1930543dd723"},"name":"Annissa","animal_common_name":"Blue crane","scientific_name":"Anthropoides paradisea","weight":{"$numberInt":"151"},"size":"XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd724"},"name":"Vanny","animal_common_name":"Butterfly, tropical buckeye","scientific_name":"Junonia genoveua","weight":{"$numberInt":"267"},"size":"L"}
+{"_id":{"$oid":"5e99b551d0da1930543dd725"},"name":"Brigham","animal_common_name":"Weaver, white-browed sparrow","scientific_name":"Plocepasser mahali","weight":{"$numberInt":"47"},"size":"XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd726"},"name":"Milicent","animal_common_name":"Galapagos penguin","scientific_name":"Spheniscus mendiculus","weight":{"$numberInt":"176"},"size":"XS"}
+{"_id":{"$oid":"5e99b551d0da1930543dd727"},"name":"Kristy","animal_common_name":"Alligator, american","scientific_name":"Alligator mississippiensis","weight":{"$numberInt":"99"},"size":"M"}
+{"_id":{"$oid":"5e99b551d0da1930543dd728"},"name":"Lelia","animal_common_name":"Vulture, king","scientific_name":"Sarcorhamphus papa","weight":{"$numberInt":"30"},"size":"S"}
+{"_id":{"$oid":"5e99b551d0da1930543dd729"},"name":"Gwynne","animal_common_name":"Dik, kirk's dik","scientific_name":"Madoqua kirkii","weight":{"$numberInt":"32"},"size":"L"}
+{"_id":{"$oid":"5e99b551d0da1930543dd72a"},"name":"Allyn","animal_common_name":"Oryx, beisa","scientific_name":"Oryx gazella","weight":{"$numberInt":"355"},"size":"XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd72b"},"name":"Kamila","animal_common_name":"Cuis","scientific_name":"Microcavia australis","weight":{"$numberInt":"119"},"size":"3XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd72c"},"name":"Gaynor","animal_common_name":"Southern tamandua","scientific_name":"Tamandua tetradactyla","weight":{"$numberInt":"345"},"size":"3XL"}
+{"_id":{"$oid":"5e99b551d0da1930543dd72d"},"name":"Wenonah","animal_common_name":"Sarus crane","scientific_name":"Grus antigone","weight":{"$numberInt":"172"},"size":"XS"}
